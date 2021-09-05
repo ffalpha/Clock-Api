@@ -1,0 +1,28 @@
+{
+  "name": "clock-api",
+  "version": "1.0.0",
+  "description": "Return the Time for a given timezone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffalpha/Clock-Api.git"
+  },
+  "keywords": [
+    "clock",
+    "api",
+    "timezone"
+  ],
+  "author": "Kalana Mihiranga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ffalpha/Clock-Api/issues"
+  },
+  "homepage": "https://github.com/ffalpha/Clock-Api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "satelize": "^0.2.0"
+  }
+}
